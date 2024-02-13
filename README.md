@@ -24,3 +24,5 @@ Wavetables will need to be recreated by the coder to sound the same as the compo
 Samples cannot be used for this converter, even if systems like the wonderswan support it.
 
 Musicians should keep in mind that at max 16 wavetables can be used per song.
+
+Patterns must be 128 rows long
